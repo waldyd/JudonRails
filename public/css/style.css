@@ -67,7 +67,7 @@ p.more a:hover{
 #left_pannel{
 	width:69%;
 	float:left;
-	background:url(../images/footer_bg.jpg) no-repeat 0 100% #E8E4B5;
+	background:url(../images/footer_bg_Yukikan.png) no-repeat 0 100% #E8E4B5;
 	line-height:0px;
 	font-size:0px;
 	color:#7E5C1A;
@@ -372,7 +372,7 @@ p.more a:hover{
 	font-size:0px;
 }
 .logo{
-	margin:0 0 0 47px;
+	margin:0 0 0 27px;
 	outline:none;
 	border:none;
 }
