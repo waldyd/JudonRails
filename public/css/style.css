@@ -3,7 +3,7 @@
 body {
 	margin:0;
 	padding:0;
-	background:url(../../images/body_bg.jpg) repeat-x 0 0 #E4D790;
+	background:url(../../images/body_bg.jpg) repeat-x 0 0 rgb(255,255,255);
 	color:#BA882B;
 	font:normal 11px/14px Arial, Helvetica, sans-serif;
 }
@@ -67,13 +67,15 @@ p.more a:hover{
 #left_pannel{
 	width:69%;
 	float:left;
-	background:url(../images/footer_bg_Yukikan.png) no-repeat 0 100% #E8E4B5;
+	background:url(../images/footer_bg_Yukikan.png) no-repeat 0 93% transparent /*rgb(255,255,255)*/;
 	line-height:0px;
 	font-size:0px;
 	color:#7E5C1A;
 }
 #header_bg{
-	background:url(../images/header_bg.jpg) no-repeat 0 0;
+    /* Find One image adequate for this section (waldyd)*/
+    
+	background:url(./images/header_bg.jpg) no-repeat 0 0; 
 	line-height:0px;
 	font-size:0px;
 	padding:23px 0 0 35px;
